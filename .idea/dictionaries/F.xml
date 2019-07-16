@@ -2,6 +2,14 @@
   <dictionary name="F">
     <words>
       <w>jqueryobj</w>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <w>msxml</w>
+      <w>xmlhttp</w>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
     </words>
   </dictionary>
 </component>

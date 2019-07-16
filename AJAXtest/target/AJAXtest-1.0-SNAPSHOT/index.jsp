@@ -9,8 +9,21 @@
 <html>
 <head>
     <title>Title</title>
+<<<<<<< HEAD
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/verity.js"></script>
+=======
+<<<<<<< HEAD
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/verity.js"></script>
+=======
+    <!-- <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/verity.js"></script>
+    <script type="text/javascript" src="js/verify.js"></script> -->
+
+    <script type="text/javascript" src="js/vertifyown.js"></script>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
 </head>
 <body>
     <input type="text" id="username" name="name"/>

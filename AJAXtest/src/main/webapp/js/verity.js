@@ -1,3 +1,5 @@
+
+//利用jquery类库是实现
 function verity() {
     var jqueryobj = $("#username");
     var username = jqueryobj.val();

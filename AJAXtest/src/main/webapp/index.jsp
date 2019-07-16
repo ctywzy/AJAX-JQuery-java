@@ -11,6 +11,13 @@
     <title>Title</title>
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/verity.js"></script>
+
+    <!-- <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/verity.js"></script>
+    <script type="text/javascript" src="js/verify.js"></script> -->
+
+    <script type="text/javascript" src="js/vertifyown.js"></script>
+
 </head>
 <body>
     <input type="text" id="username" name="name"/>

@@ -25,8 +25,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="105">
               <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="105">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+=======
+            <state relative-caret-position="204">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
             </state>
           </provider>
         </entry>
@@ -34,13 +56,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="68">
               <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+=======
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
+=======
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
         <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Dao/DBUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
@@ -50,6 +90,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
         <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -71,6 +126,18 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xmlhttp</find>
+      <find>username</find>
+    </findStrings>
+  </component>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -79,8 +146,20 @@
         <option value="$PROJECT_DIR$/AJAXtest/pom.xml" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/java/Dao/DBUtil.java" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js" />
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js" />
+=======
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
       </list>
     </option>
   </component>
@@ -91,11 +170,25 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> AJAX--XMLHttpRequest实现
   <component name="ProjectFrameBounds">
     <option name="x" value="226" />
     <option name="y" value="112" />
     <option name="width" value="1107" />
     <option name="height" value="613" />
+<<<<<<< HEAD
+=======
+=======
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="189" />
+    <option name="y" value="117" />
+    <option name="width" value="1107" />
+    <option name="height" value="615" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -367,25 +460,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563173089145</updated>
+<<<<<<< HEAD
       <workItem from="1563173092842" duration="4071000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1563173092842" duration="4071000" />
+=======
+      <workItem from="1563173092842" duration="15504000" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> AJAX--XMLHttpRequest实现
     <option name="totallyTimeSpent" value="4071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="226" y="112" width="1107" height="613" extended-state="0" />
     <editor active="true" />
+<<<<<<< HEAD
+=======
+=======
+    <option name="totallyTimeSpent" value="15504000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="189" y="117" width="1107" height="615" extended-state="0" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
+<<<<<<< HEAD
       <window_info id="Learn" />
       <window_info id="Web" sideWeight="0.13259669" side_tool="true" visible="true" weight="0.31518623" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8674033" visible="true" weight="0.31518623" />
+=======
+<<<<<<< HEAD
+      <window_info id="Learn" />
+      <window_info id="Web" sideWeight="0.13259669" side_tool="true" visible="true" weight="0.31518623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8674033" visible="true" weight="0.31518623" />
+=======
+      <window_info id="Learn" weight="0.3295129" />
+      <window_info id="Web" sideWeight="0.38345864" side_tool="true" weight="0.2139446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62222224" visible="true" weight="0.2139446" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" />
@@ -397,7 +523,15 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20614035" />
+=======
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20614035" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14628822" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,6 +578,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Dao/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -454,15 +601,39 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> AJAX--XMLHttpRequest实现
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+<<<<<<< HEAD
+=======
+=======
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> AJAX--XMLHttpRequest实现
         <state relative-caret-position="68">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
@@ -472,6 +643,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+<<<<<<< HEAD
+=======
+=======
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+>>>>>>> XMLHttpRequest方式实现AJAX
+>>>>>>> AJAX--XMLHttpRequest实现
         </state>
       </provider>
     </entry>
