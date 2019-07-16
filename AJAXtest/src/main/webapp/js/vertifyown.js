@@ -1,7 +1,7 @@
 //用户名校验
 //使用XMLHttpRequest对象来进行AJAX的异步数据交互
 var xmlhttp;
-function verity() {
+function verifyown() {
     //1.使用dom的方式获取文本框中的值
     //document.getElementById()
     var username = document.getElementById("username").value;
@@ -51,16 +51,17 @@ function verity() {
     //第三个参数表示用异步还是同步方式交互，true表示异步
 
     //GET请求写法
-    xmlhttp.open("GET","AJAXServer?name=" + username,true );
+    //xmlhttp.open("GET","AJAXServer?name=" + username,true );
 
     //POST请求写法
     xmlhttp.open("POST","AJAXServer",true);
     xmlhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //alert(username);
     xmlhttp.send("name="+username);
     //5.发送数据，开始和服务器端进行交互
     //同步方式下，send这句话会在服务器端数据回来后才执行
     //异步方式下，send这句话会立即执行
-
+    //GET的send写法
     //xmlhttp.send(null)
 }
 

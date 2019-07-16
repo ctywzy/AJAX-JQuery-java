@@ -1,7 +1,8 @@
 //用户名校验
 //使用XMLHttpRequest对象来进行AJAX的异步数据交互
+//并且接收服务器端返回的xml返回值
 var xmlhttp;
-function verifyown() {
+function veritxml() {
     //1.使用dom的方式获取文本框中的值
     //document.getElementById()
     var username = document.getElementById("username").value;
@@ -53,8 +54,8 @@ function verifyown() {
     //GET请求写法
     //xmlhttp.open("GET","AJAXServer?name=" + username,true );
 
-    //POST请求写法
-    xmlhttp.open("POST","AJAXServer",true);
+    //POST请求写法。
+    xmlhttp.open("POST","AJAXMLServer",true);
     xmlhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
     //alert(username);
     xmlhttp.send("name="+username);
@@ -75,12 +76,27 @@ function callback() {
         if(xmlhttp.status == 200){
             //获取服务器端返回的数据
             //获取服务器端输出的纯文本数据
-            var responseText = xmlhttp.responseText;
+            var responseXML = xmlhttp.responseXML;
+            //去取xml标签中的内容
+
+            var messagenode = responseXML.getElementsByTagName("message");
+
+            //innerHTML 只能用于纯文本，不能用户xml
+            //var responseMes = messagenode[0].innerHTML;
+
+            //获取xml中的文本内容
+            //firstChile可以获取当前结点的第一个子节点
+            //通过以下方式可以获取文本内容所对应的节点。
+            var textNode = messagenode[0].firstChild;
+
+            //对于文本节点，可以通过nodeValue的方式返回文本中的内容
+            var responseMessage = textNode.nodeValue;
+
             //alert(responseText);
             //将数据显示在页面上
             //通过dom的方式找到div标签所对应的元素节点
             var divNode = document.getElementById("result")
-            divNode.innerHTML = responseText;
+            divNode.innerHTML = responseMessage;
         }else{
             alert("出错了");
         }
