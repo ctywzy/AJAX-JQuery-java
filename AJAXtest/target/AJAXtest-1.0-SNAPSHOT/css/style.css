@@ -1,0 +1,51 @@
+/*   # + id的名字
+    id选择器
+*/
+
+/*
+    规定所有div标签的一些公共格式
+ */
+
+
+#win {
+    /*边框属性*/
+    border:1px red solid;
+
+    /*窗口大小*/
+    width: 300px;
+    height: 300px;
+
+    /*定位*/
+    position: absolute;
+    top:70px;
+    left: 400px;
+
+    display: none;
+}
+
+#title{
+    display: block;
+    background-color: blueviolet;
+    color: white;
+    padding-top: 15px;
+    padding-left:15px;
+}
+
+
+#content{
+    /*
+        padding和margin区别
+        直观的从背景色的覆盖上看
+        如果用padding的话那么背景色会贴着边界
+        如果用margin的话，距离边框之间的距离，都不会染上颜色，会留白
+        但是padding不会留白
+     */
+    background-color: yellow;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#close{
+    margin-left: 180px;
+    cursor: pointer;
+}
