@@ -1,0 +1,21 @@
+/*
+如何让标签名一样的标签显示一样的效果
+ */
+
+li{
+    list-style: none;
+    margin-left: 15px;
+    display: none;
+}
+
+ul{
+    /*
+    这样li上也会出现手标志
+     */
+    /*
+    cursor: pointer;
+     */
+}
+a{
+    cursor: pointer;
+}
