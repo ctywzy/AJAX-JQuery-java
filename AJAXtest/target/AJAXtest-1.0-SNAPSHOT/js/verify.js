@@ -11,7 +11,7 @@ function verify() {
         success: callback //交互完成后，并且服务器接收返回数据时调用的回调含糊
     })
 }
-
+//xml+ajax
 //回调
 function callback(data) {
     //文本格式解析

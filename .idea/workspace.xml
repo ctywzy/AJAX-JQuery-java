@@ -9,6 +9,9 @@
     <list default="true" id="afb4e5dc-edd6-473d-8636-80ac02ace124" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXMLServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/GetStockInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/java/bean/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/stock.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AJAXtest/target/AJAXtest-1.0-SNAPSHOT/js/verify.js" afterDir="false" />
@@ -39,41 +42,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/stock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/menu.jsp">
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/GetStockInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="221">
+              <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/menu.css">
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/stock.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="214">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/menu.js">
+        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/JQuerydemo.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="391">
+              <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -107,10 +107,8 @@
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verity.js" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java" />
-        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/indexml.jsp" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/indexml.jsp" />
-        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXMLServer.java" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js" />
@@ -125,6 +123,14 @@
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/css/menu.css" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/menu.js" />
         <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/menu.jsp" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/java/bean/Stock.java" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/stock.jsp" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/css/stock.css" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/stock.jsp" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/webapp/js/stock.js" />
+        <option value="$PROJECT_DIR$/AJAXtest/src/main/java/Controller/GetStockInfo.java" />
       </list>
     </option>
   </component>
@@ -142,17 +148,15 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="234" />
-    <option name="y" value="135" />
-    <option name="width" value="1352" />
-    <option name="height" value="614" />
+    <option name="x" value="214" />
+    <option name="width" value="1176" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -211,7 +215,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AJAX" type="b2602c69:ProjectViewProjectNode" />
@@ -220,12 +224,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AJAX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAX" type="462c0819:PsiDirectoryNode" />
+              <item name="AJAXtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,11 +258,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\F\IdeaProjects\AJAX\AJAXtest\src\main\webapp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\F\IdeaProjects\AJAX\AJAXtest\src\main\webapp\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\F\IdeaProjects\AJAX\AJAXtest\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -430,12 +442,14 @@
       <workItem from="1563173092842" duration="15504000" />
       <workItem from="1563322792414" duration="613000" />
       <workItem from="1563365290613" duration="6276000" />
-      <workItem from="1563452254735" duration="4434000" />
+      <workItem from="1563452254735" duration="4570000" />
+      <workItem from="1563543063420" duration="4154000" />
+      <workItem from="1563622150742" duration="6998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24470000" />
+    <option name="totallyTimeSpent" value="35758000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -447,22 +461,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="135" width="1352" height="614" extended-state="0" />
+    <frame x="214" y="0" width="1176" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7906977" visible="true" weight="0.20356037" />
-      <window_info id="Structure" order="1" sideWeight="0.20930232" side_tool="true" visible="true" weight="0.20356037" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78509533" visible="true" weight="0.19444445" />
+      <window_info id="Structure" order="1" sideWeight="0.21271929" side_tool="true" weight="0.20665635" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" weight="0.3295129" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.20671834" side_tool="true" weight="0.21130031" />
+      <window_info id="Web" order="6" sideWeight="0.21490468" side_tool="true" visible="true" weight="0.19444445" />
       <window_info id="Image Layers" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1513158" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41941074" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.051194537" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.5753899" />
@@ -473,7 +487,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3292683" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.34982935" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.21490468" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -487,6 +501,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/GetStockInfo.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AJAX.iml">
@@ -513,9 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -524,65 +547,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/indexml.jsp" />
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/indexml.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verifyxml.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXMLServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,10 +561,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/JQuerydemo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11764">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/ServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/ServletResponseWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/AJAXServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/stock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/bean/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/indexml.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/win.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/verifyxml.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -607,34 +676,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/JQuerydemo.jsp">
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/vertifyown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="-942">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/css/menu.css">
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="384">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/menu.jsp">
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/stock.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/webapp/js/stock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAXtest/src/main/java/Controller/GetStockInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -19,6 +19,11 @@
         <servlet-class>Controller.AJAXMLServer</servlet-class>
     </servlet>
 
+    <servlet>
+        <servlet-name>GetStockInfo</servlet-name>
+        <servlet-class>Controller.GetStockInfo</servlet-class>
+    </servlet>
+
     <servlet-mapping>
         <servlet-name>AJAXServer</servlet-name>
         <url-pattern>/AJAXServer</url-pattern>
@@ -27,5 +32,10 @@
     <servlet-mapping>
         <servlet-name>AJAXMLServer</servlet-name>
         <url-pattern>/AJAXMLServer</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>GetStockInfo</servlet-name>
+        <url-pattern>/GetStockInfo</url-pattern>
     </servlet-mapping>
 </web-app>
