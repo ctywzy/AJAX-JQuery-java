@@ -32,5 +32,11 @@
         </span>
 
     </div>
+
+    <div id="stock">
+        <div id="yesterday">昨天：<span></span></div>
+        <div id="today">今天：<span></span></div>
+        <div id="now">现在：<span></span></div>
+    </div>
 </body>
 </html>

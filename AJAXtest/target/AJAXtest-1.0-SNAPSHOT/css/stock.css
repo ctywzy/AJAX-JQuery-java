@@ -3,3 +3,12 @@
 a{
     text-decoration: none;
 }
+
+#stock{
+    border: 1px black solid;
+    width: 250px;
+    position: absolute;
+    z-index: 99;
+    background: blueviolet;
+    color: white;
+}
